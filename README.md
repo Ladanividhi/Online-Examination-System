@@ -35,7 +35,7 @@ A Spring Boot-based Online Examination System with secure user authentication, e
 ## 🔧 Installation & Setup
 
 1. *Clone the repository*
-   git clone https://github.com/Ladanividhi/Online-Examination-System.git \n
+   git clone https://github.com/Ladanividhi/Online-Examination-System.git and then
    cd online-exam
    
 
